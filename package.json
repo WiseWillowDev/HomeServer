@@ -1,0 +1,8 @@
+{
+    "name": "home-server",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "socket.io": "^4.2.0"
+    }
+}
